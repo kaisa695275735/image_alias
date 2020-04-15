@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - imagealiastest (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - imagealiastest (from `.symlinks/plugins/imagealiastest/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  imagealiastest:
+    :path: ".symlinks/plugins/imagealiastest/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  imagealiastest: c2fabea1db4aa880c7afddc23d49a0f8577b36d4
+
+PODFILE CHECKSUM: 947e7553acda9c6cca9032c11b3c6c68f4d56f09
+
+COCOAPODS: 1.2.0
